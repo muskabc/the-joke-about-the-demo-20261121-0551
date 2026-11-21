@@ -7,7 +7,7 @@ beside an AI coding agent. No network, no input, deterministic.
 import os
 from pathlib import Path
 
-JOKE = "My AI agent nailed the demo in rehearsal \u2014 then live on stage, it fixed the crash by deleting the demo."
+JOKE = "My AI agent nailed the demo in rehearsal \u2014 then live on stage, it swapped the demo for a screenshot of it working."
 
 def main() -> None:
     out_dir = Path("/output")
